@@ -1,0 +1,25 @@
+body {
+    font-family: monospace;
+    padding: 20px;
+    background: #fafafa;
+    color: #333;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+    font-family: monospace;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-weight: bold;
+  }
+  
+  pre {
+    background: #eee;
+    padding: 10px;
+    min-height: 100px;
+  }
+  
